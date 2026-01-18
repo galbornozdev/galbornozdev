@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Gonzalo  
 ### ⚡ Full-Stack Software Engineer
 
-🇦🇷 Rosario, Argentina  
+🇦🇷 Santa Fe, Argentina  
 🎓 Computer Engineering student  
 
 💻 I design and build scalable, maintainable software solutions across the full stack, with a strong backend foundation.  
