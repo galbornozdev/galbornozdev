@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi! I'm Gonzalo  
+### ⚡ Full-Stack Software Engineer
 
-<!--
-**galbornozdev/galbornozdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇦🇷 Rosario, Argentina  
+🎓 Computer Engineering student  
 
-Here are some ideas to get you started:
+💻 I design and build scalable, maintainable software solutions across the full stack, with a strong backend foundation.  
+⚙️ I value clean architecture, solid design principles, and long-term maintainability over specific tools or trends.  
+🚀 Curious, adaptable, and always learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+C# · .NET · PHP · Laravel · TypeScript · Angular · Ionic · Flutter  
+
+**Architecture & Backend**  
+RESTful APIs · Microservices · Clean Architecture · SOLID · Design Patterns  
+
+**Databases & Caching**  
+SQL Server · MySQL · MongoDB · Redis  
+
+**Cloud & DevOps**  
+Azure (Functions, Service Bus, Web Apps, Blob Storage)  
+Docker · Kubernetes (AKS / Rancher)
+
+**Tools & Observability**  
+Git · GitHub / GitLab · Kibana · Elasticsearch
